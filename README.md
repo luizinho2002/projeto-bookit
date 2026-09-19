@@ -75,7 +75,7 @@ Entrada: 2026-09-18 | Saída: 2026-09-21
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` parqa mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
